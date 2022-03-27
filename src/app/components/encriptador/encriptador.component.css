@@ -1,0 +1,12 @@
+textarea {
+    resize: none;
+    width: 360px;
+    height: 197px;
+    border: none;
+  }
+
+  .c-text {
+    border-radius: 5px;
+    box-shadow: 2px 3px 8px 0px #b3b3b3;
+  }
+
